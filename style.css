@@ -318,9 +318,9 @@ footer .soc {
 	color: white; /* White text color */
   }
   
-  .html {width: 45%; background-color: #d9d6cf;} /* Green */
-  .css {width: 30%; background-color: #c1beb8;} /* Blue */
-  .js {width: 10%; background-color: #a9a6a1;} /* Red */
+  .html {width: 45%; background-color: #d9d6cf; border-radius: 20px;} /* Green */
+  .css {width: 30%; background-color: #c1beb8; border-radius: 20px;} /* Blue */
+  .js {width: 10%; background-color: #a9a6a1; border-radius: 20px;} /* Red */
   .skill{
 	  padding: 5px;
 	  margin-left: 10%;
